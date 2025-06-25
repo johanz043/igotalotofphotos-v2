@@ -10,6 +10,6 @@ https://johanz043.github.io/igotalotofphotos-v2/
 - Added more photos
 
 ## What's coming?
-- Better interface for mobile devices
+- Updated interface for mobile devices
 - A more interactive interface and better designs
 - More photos!
