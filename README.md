@@ -9,7 +9,7 @@ https://johanz043.github.io/igotalotofphotos-v2/
 - Added seperate album pages
 - Added more photos
 
-## What's coming?
+## What's coming in Version 3?
 - Updated interface for mobile devices
 - A more interactive interface and better designs
 - More photos!
